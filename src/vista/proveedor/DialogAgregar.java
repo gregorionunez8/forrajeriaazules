@@ -8,6 +8,7 @@ import modelo.Proveedor;
 
 public class DialogAgregar extends javax.swing.JDialog {
 
+    //asdasd
     public DialogAgregar(java.awt.Frame parent, boolean modal) {
         super(parent, modal);
         initComponents();
